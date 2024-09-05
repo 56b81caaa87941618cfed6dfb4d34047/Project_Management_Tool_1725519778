@@ -20,8 +20,11 @@ INSTRUCTION: Summary: This component contains a h2 heading title for the CTA, a 
                 <div id="cta-button-container" class="flex">
                     <a id="cta-button" href="#" class="flex-1 text-white bg-purple-700 hover:bg-purple-800 focus:ring-4 focus:ring-purple-300 font-medium rounded-lg text-sm px-5 py-2.5 mr-2 mb-2 dark:bg-purple-600 dark:hover:bg-purple-700 focus:outline-none dark:focus:ring-purple-800">
                         Start Your Project Now
+                        Start Your Project Now
                     </a>
-                </div>
+                    <a id="free-developer-button" href="#" class="flex-1 text-purple-700 bg-white hover:bg-purple-100 border border-purple-700 focus:ring-4 focus:ring-purple-300 font-medium rounded-lg text-sm px-5 py-2.5 mr-2 mb-2 dark:bg-gray-800 dark:text-purple-400 dark:border-purple-400 dark:hover:bg-gray-700 focus:outline-none dark:focus:ring-purple-800">
+                        Free as a Developer
+                    </a>
             </div>
         </div>
     </section>
