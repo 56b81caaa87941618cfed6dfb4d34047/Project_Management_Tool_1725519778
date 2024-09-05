@@ -4,5 +4,6 @@
     "project_description": "an app for making the Projects",
     "creation_time": "2024-09-05 07:02:58.233097",
     "current_state": "The current state of the application has a navbar and a header",
-    "selected_starter_template_id": "landwind"
+    "selected_starter_template_id": "landwind",
+    "frontend_theme_prompt": "The image employs a surreal, cosmic style with vibrant magenta and deep purple hues, creating a dreamy, otherworldly landscape with striking celestial bodies and reflective water."
 }
