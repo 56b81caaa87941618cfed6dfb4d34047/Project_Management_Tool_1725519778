@@ -6,5 +6,14 @@
         "timestamp": "1725519780",
         "component_file_name": "",
         "div_id": ""
+    },
+    {
+        "role": "user",
+        "content": "add a button with text Free as a Developer",
+        "message_id": "guest05092024101804",
+        "timestamp": "05092024101809",
+        "component_file_name": "simple_cta_component_1725519780",
+        "div_id": "",
+        "div_action": ""
     }
 ]
