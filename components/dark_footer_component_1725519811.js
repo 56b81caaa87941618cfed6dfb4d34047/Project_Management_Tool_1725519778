@@ -8,7 +8,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
 -->
 
 <template>
-  <footer id="footer-section-container" class="bg-gradient-to-r from-purple-900 to-pink-800 bg-opacity-70 backdrop-filter backdrop-blur-lg rounded-lg shadow-lg" style="min-height: 110px">
+  <footer id="footer-section-container" style="min-height: 350px" class="bg-gradient-to-r from-purple-900 to-pink-800 bg-opacity-70 backdrop-filter backdrop-blur-lg rounded-lg shadow-lg" >
     <div class="max-w-6xl mx-auto px-4 sm:px-6">
       <!-- Blocks -->
       <div class="grid sm:grid-cols-12 gap-8 py-8 md:py-12">
@@ -24,7 +24,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
                   href="index.html"
                   aria-label="© 2023 ProjectMaker. All rights reserved."
                 >
-                  <img src="./images/logo.svg" width="38" height="38" alt="Stellar" />
+                  <img src="https://makeinfinite-mentat-dev.azurewebsites.net/get_image/Project_Management_Tool_1725519778/logo.svg" width="38" height="38" alt="Stellar" />
                 </a>
               </div>
               <div id="footer-copyright" class="text-sm text-pink-200">
