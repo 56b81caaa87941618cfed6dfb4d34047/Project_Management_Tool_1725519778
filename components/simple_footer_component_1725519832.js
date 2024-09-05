@@ -5,7 +5,7 @@ INSTRUCTION: Both of these lines are center aligned.
 -->
 
 <template>
-    <footer id="footer-section" style="min-height: 110px"  class="flex-1 bg-gradient-to-r from-purple-900 to-pink-600 bg-opacity-70 backdrop-filter backdrop-blur-lg rounded-lg shadow-lg p-8">
+    <footer id="footer-section" style="min-height: 270px"   class="flex-1 bg-gradient-to-r from-purple-900 to-pink-600 bg-opacity-70 backdrop-filter backdrop-blur-lg rounded-lg shadow-lg p-8">
         <div id="footer-container" class="max-w-screen-xl mx-auto">
             <hr id="footer-divider" class="my-6 border-pink-300 opacity-30 sm:mx-auto lg:my-8">
             <div id="footer-content" class="text-center">
