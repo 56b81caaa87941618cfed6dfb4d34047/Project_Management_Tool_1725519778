@@ -8,6 +8,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What is the desired action when the 'Free as a Developer' button is clicked?\", \"option1\": \"Redirect to a signup page\", \"option2\": \"Open a modal with more information\"}, {\"question 2\": \"Where would you like this button to be positioned in the app?\", \"option1\": \"At the top of the homepage\", \"option2\": \"At the bottom of the project list page\"}], \"input_token_count\": 295, \"output_token_count\": 99, \"time_taken\": \"0:00:01.754185\"}",
+        "message_id": "guest05092024101804",
+        "timestamp": "05092024101813",
+        "component_file_name": "simple_cta_component_1725519780",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Okay, I'll add a button with the text \"Free as a Developer.\"",
         "message_id": "guest05092024101804",
