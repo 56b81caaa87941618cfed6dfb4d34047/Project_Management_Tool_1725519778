@@ -8,8 +8,8 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
 -->
 
 <template>
-  <footer id="footer-section-container" style="min-height: 110px" >
-    <div class="max-w-6xl mx-auto px-4 sm:px-6 bg-white">
+  <footer id="footer-section-container" class="bg-gradient-to-r from-purple-900 to-pink-800 bg-opacity-70 backdrop-filter backdrop-blur-lg rounded-lg shadow-lg" style="min-height: 110px">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6">
       <!-- Blocks -->
       <div class="grid sm:grid-cols-12 gap-8 py-8 md:py-12">
         <!-- 1st block -->
@@ -27,9 +27,9 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
                   <img src="./images/logo.svg" width="38" height="38" alt="Stellar" />
                 </a>
               </div>
-              <div id="footer-copyright" class="text-sm text-slate-400">
-                &copy; © 2023 ProjectMaker. All rights reserved.
-                <span class="text-slate-500">-</span> All rights reserved.
+              <div id="footer-copyright" class="text-sm text-pink-200">
+                © 2023 ProjectMaker. All rights reserved.
+                <span class="text-purple-300">-</span> All rights reserved.
               </div>
             </div>
             <!-- Social links -->
@@ -37,7 +37,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
               <li>
                 <a
                   id="footer-social-link-1"
-                  class="flex justify-center items-center transition duration-150 ease-in-out text-purple-500 hover:text-purple-400"
+                  class="flex justify-center items-center transition duration-150 ease-in-out text-pink-300 hover:text-white"
                   href="#0"
                   aria-label="Twitter"
                 >
@@ -55,7 +55,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
               <li>
                 <a
                   id="footer-social-link-2"
-                  class="ml-2 flex justify-center items-center transition duration-150 ease-in-out text-purple-500 hover:text-purple-400"
+                  class="ml-2 flex justify-center items-center transition duration-150 ease-in-out text-pink-300 hover:text-white"
                   href="#0"
                   aria-label="Dev.to"
                 >
@@ -70,7 +70,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
               <li>
                 <a
                   id="footer-social-link-3"
-                  class="ml-2 flex justify-center items-center transition duration-150 ease-in-out text-purple-500 hover:text-purple-400"
+                  class="ml-2 flex justify-center items-center transition duration-150 ease-in-out text-pink-300 hover:text-white"
                   href="#0"
                   aria-label="Github"
                 >
@@ -93,15 +93,15 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
         <div id="footer-block-2" class="sm:col-span-6 md:col-span-3 lg:col-span-2">
           <h6
             id="footer-block-2-title"
-            class="text-sm font-medium mb-2 text-slate-50 hover:text-purple-400"
+            class="text-sm font-medium mb-2 text-white hover:text-pink-300"
           >
             About ProjectMaker
           </h6>
           <ul id="footer-block-2-list" class="text-sm space-y-2">
             <li>
               <a
-                id="footer-block-2-link-1 hover:text-slate-200"
-                class="transition duration-150 ease-in-out text-slate-400"
+                id="footer-block-2-link-1"
+                class="transition duration-150 ease-in-out text-pink-200 hover:text-white"
                 href="#0"
               >
                 Our Story
@@ -109,8 +109,8 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
             </li>
             <li>
               <a
-                id="footer-block-2-link-2 hover:text-slate-200"
-                class="transition duration-150 ease-in-out text-slate-400"
+                id="footer-block-2-link-2"
+                class="transition duration-150 ease-in-out text-pink-200 hover:text-white"
                 href="#0"
               >
                 How It Works
@@ -118,8 +118,8 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
             </li>
             <li>
               <a
-                id="footer-block-2-link-3 hover:text-slate-200"
-                class="transition duration-150 ease-in-out text-slate-400"
+                id="footer-block-2-link-3"
+                class="transition duration-150 ease-in-out text-pink-200 hover:text-white"
                 href="#0"
               >
                 Testimonials
@@ -127,8 +127,8 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
             </li>
             <li>
               <a
-                id="footer-block-2-link-4 hover:text-slate-200"
-                class="transition duration-150 ease-in-out text-slate-400"
+                id="footer-block-2-link-4"
+                class="transition duration-150 ease-in-out text-pink-200 hover:text-white"
                 href="#0"
               >
                 Press Kit
@@ -139,14 +139,14 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
 
         <!-- 3rd block -->
         <div id="footer-block-3" class="sm:col-span-6 md:col-span-3 lg:col-span-2">
-          <h6 id="footer-block-3-title" class="text-sm font-medium mb-2 text-slate-50">
+          <h6 id="footer-block-3-title" class="text-sm font-medium mb-2 text-white hover:text-pink-300">
             Resources
           </h6>
           <ul id="footer-block-3-list" class="text-sm space-y-2">
             <li>
               <a
                 id="footer-block-3-link-1"
-                class="transition duration-150 ease-in-out text-slate-400 hover:text-slate-200"
+                class="transition duration-150 ease-in-out text-pink-200 hover:text-white"
                 href="#0"
               >
                 Project Templates
@@ -155,7 +155,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
             <li>
               <a
                 id="footer-block-3-link-2"
-                class="transition duration-150 ease-in-out text-slate-400 hover:text-slate-200"
+                class="transition duration-150 ease-in-out text-pink-200 hover:text-white"
                 href="#0"
               >
                 Tutorials
@@ -164,7 +164,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
             <li>
               <a
                 id="footer-block-3-link-3"
-                class="transition duration-150 ease-in-out text-slate-400 hover:text-slate-200"
+                class="transition duration-150 ease-in-out text-pink-200 hover:text-white"
                 href="#0"
               >
                 FAQ
@@ -173,7 +173,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
             <li>
               <a
                 id="footer-block-3-link-4"
-                class="transition duration-150 ease-in-out text-slate-400 hover:text-slate-200"
+                class="transition duration-150 ease-in-out text-pink-200 hover:text-white"
                 href="#0"
               >
                 Blog
@@ -184,14 +184,14 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
 
         <!-- 4th block -->
         <div id="footer-block-4" class="sm:col-span-6 md:col-span-3 lg:col-span-2">
-          <h6 id="footer-block-4-title" class="text-sm font-medium mb-2 text-slate-50">
+          <h6 id="footer-block-4-title" class="text-sm font-medium mb-2 text-white hover:text-pink-300">
             Connect
           </h6>
           <ul id="footer-block-4-list" class="text-sm space-y-2">
             <li>
               <a
                 id="footer-block-4-link-1"
-                class="transition duration-150 ease-in-out text-slate-400 hover:text-slate-200"
+                class="transition duration-150 ease-in-out text-pink-200 hover:text-white"
                 href="#0"
               >
                 Contact Us
@@ -200,7 +200,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
             <li>
               <a
                 id="footer-block-4-link-2"
-                class="transition duration-150 ease-in-out text-slate-400 hover:text-slate-200"
+                class="transition duration-150 ease-in-out text-pink-200 hover:text-white"
                 href="#0"
               >
                 Support
@@ -209,7 +209,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
             <li>
               <a
                 id="footer-block-4-link-3"
-                class="transition duration-150 ease-in-out text-slate-400 hover:text-slate-200"
+                class="transition duration-150 ease-in-out text-pink-200 hover:text-white"
                 href="#0"
               >
                 Community Forum
@@ -218,7 +218,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
             <li>
               <a
                 id="footer-block-4-link-4"
-                class="transition duration-150 ease-in-out text-slate-400 hover:text-slate-200"
+                class="transition duration-150 ease-in-out text-pink-200 hover:text-white"
                 href="#0"
               >
                 Partner With Us
